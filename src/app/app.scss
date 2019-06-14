@@ -1,6 +1,17 @@
 // App Styles
 // ----------------------------------------------------------------------------
-// Put style rules here that you want to apply to the entire application. These 
-// styles are for the entire app and not just one component. Additionally, this 
-// file can hold Sass mixins, functions, and placeholder classes to be imported 
+// Put style rules here that you want to apply to the entire application. These
+// styles are for the entire app and not just one component. Additionally, this
+// file can hold Sass mixins, functions, and placeholder classes to be imported
 // and used throughout the application.
+
+.bubble {
+  padding-top: 10%;
+  padding-left: 25%
+}
+
+.bubbleCount {
+  padding-left: 25%;
+  text-align: center;
+  align-items: center;
+}

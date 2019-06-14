@@ -1,5 +1,7 @@
 {
   "name": "Bubble-Pop",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
